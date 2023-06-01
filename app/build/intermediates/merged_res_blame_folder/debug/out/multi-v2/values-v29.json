@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-62:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\A1Tech\\Desktop\\LearnLanguagebyReading\\app\\src\\main\\res\\values-v29\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "64",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    }
+                }
+            ]
+        }
+    ]
+}
