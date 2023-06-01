@@ -42,7 +42,6 @@ class DictionaryFragment : Fragment(R.layout.fragment_dictionary) {
                     .setMessage(dict.transcription)
                     .create()
                     .show()
-
             }
             swapBtn.setOnClickListener {
                 viewModel.toggleState()
