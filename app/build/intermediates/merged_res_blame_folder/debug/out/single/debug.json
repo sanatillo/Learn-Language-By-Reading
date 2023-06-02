@@ -1,230 +1,258 @@
 [
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_favorite_item.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/favorite_item.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_delete.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/menu_read_menu.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/menu/read_menu.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_volume.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_volume.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_custom_step_to.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/custom_step_to.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_custom_translate.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\custom_translate.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_tg_logo.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_tg_logo.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/anim_progress_indicator_anim.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/anim/progress_indicator_anim.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\logo.jpg"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_custom_translate.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/custom_translate.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_iv_circular_progress_indicator.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\iv_circular_progress_indicator.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_transparent_icon.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/transparent_icon.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_translate.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_translate.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_add_book.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_add_book.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_star.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_about_app.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_about_app.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/xml_backup_rules.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_dictionary.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_dictionary.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/font_medium.ttf.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/font/medium.ttf"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_add.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_dict_item.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/dict_item.xml"
+        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_about_app.xml.flat",
+        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_about_app.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_read.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_read.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_swap.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_swap.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_arrow_back.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_arrow_back.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_custom_progress_indicator.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/custom_progress_indicator.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_favorite.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_favorite.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_baseline_delete_24.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/baseline_delete_24.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\baseline_delete_24.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_iv_circular_progress_indicator.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/iv_circular_progress_indicator.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\font_medium.ttf.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\font\\medium.ttf"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/xml_data_extraction_rules.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\baseline_book_24.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_baseline_sort_24.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\baseline_sort_24.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_arrow_back.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_favorite.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_favorite.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_custom_progress_indicator.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\custom_progress_indicator.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_activity_main.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/activity_main.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\xml_files.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\xml\\files.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_book_item.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/book_item.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\font_regular.ttf.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\font\\regular.ttf"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/menu_bottom_nav_menu.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_custom_step_to.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\custom_step_to.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\menu_read_menu.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\menu\\read_menu.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_launcher_background.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_insta_logo.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_insta_logo.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_home.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\activity_main.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_book_placeholder.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\book_placeholder.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_translate.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_translate.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\profile.jpg"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_volume.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_volume.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_star_outlined.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_star_outlined.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/xml_files.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/xml/files.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/navigation_nav_graph.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_dict_item.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\dict_item.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_add.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_add.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_dictionary.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_dictionary.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_swap.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_swap.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_baseline_sort_24.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/baseline_sort_24.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_book_item.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\book_item.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/font_regular.ttf.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/font/regular.ttf"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_star_outlined.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_star_outlined.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\anim_progress_indicator_anim.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\anim\\progress_indicator_anim.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_delete.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_delete.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_favorite_item.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\favorite_item.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_book_placeholder.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/book_placeholder.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_star.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_star.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_add_book.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_add_book.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_home.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_baseline_book_24.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/baseline_book_24.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_info.xml"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_profile.jpg.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/profile.jpg"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/drawable_ic_check.xml.flat",
-        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/drawable/ic_check.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_transparent_icon.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\transparent_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_a1tech_logo.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_a1tech_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_fragment_read.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_read.xml"
     }
 ]

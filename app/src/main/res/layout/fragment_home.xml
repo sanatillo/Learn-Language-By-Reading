@@ -13,7 +13,7 @@
         android:fontFamily="@font/medium"
         android:text="Sizning kitoblaringiz"
         android:textColor="@color/teal_700"
-        android:textSize="23sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="uz.suhrob.learnlanguagebyreading"
+    package="uz.arslonov.learnlanguagebyreading"
     android:versionCode="2"
     android:versionName="1.1" >
 
@@ -14,10 +14,10 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <permission
-        android:name="uz.suhrob.learnlanguagebyreading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="uz.arslonov.learnlanguagebyreading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="uz.suhrob.learnlanguagebyreading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="uz.arslonov.learnlanguagebyreading.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:name="uz.siyovush.learnlanguagebyreading.App"
@@ -28,15 +28,12 @@
         android:enableOnBackInvokedCallback="true"
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
         android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.LearnLanguageByReading" >
-        <activity
-            android:name="uz.siyovush.learnlanguagebyreading.ui.read.ReadActivity"
-            android:exported="false" />
         <activity
             android:name="uz.siyovush.learnlanguagebyreading.MainActivity"
             android:exported="true"
@@ -51,7 +48,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="uz.suhrob.learnlanguagebyreading.androidx-startup"
+            android:authorities="uz.arslonov.learnlanguagebyreading.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

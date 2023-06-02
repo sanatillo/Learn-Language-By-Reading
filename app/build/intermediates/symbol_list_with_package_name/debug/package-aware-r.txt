@@ -2894,6 +2894,7 @@ drawable emoji_ios_sheet_8
 drawable emoji_ios_sheet_9
 drawable emoji_recent
 drawable emoji_search
+drawable ic_a1tech_logo
 drawable ic_add
 drawable ic_arrow_back
 drawable ic_arrow_back_black_24
@@ -2902,6 +2903,8 @@ drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_delete
 drawable ic_home
+drawable ic_info
+drawable ic_insta_logo
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -2916,9 +2919,11 @@ drawable ic_search_black_24
 drawable ic_star
 drawable ic_star_outlined
 drawable ic_swap
+drawable ic_tg_logo
 drawable ic_translate
 drawable ic_volume
 drawable iv_circular_progress_indicator
+drawable logo
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3011,6 +3016,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id aboutAppFragment
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3248,6 +3254,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
+id imageView2
 id immediateStop
 id included
 id indeterminate
@@ -3268,6 +3276,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id lnr
@@ -3512,6 +3521,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3709,6 +3720,7 @@ layout emoji_popup_window_skin
 layout emoji_view
 layout emoji_view_category
 layout favorite_item
+layout fragment_about_app
 layout fragment_add_book
 layout fragment_dictionary
 layout fragment_favorite
@@ -3818,6 +3830,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string about_app
 string action_settings
 string add
 string add_book
@@ -3850,6 +3863,7 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string favorite
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string home
 string icon_content_description

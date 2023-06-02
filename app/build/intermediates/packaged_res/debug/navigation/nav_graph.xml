@@ -40,4 +40,9 @@
         android:name="uz.siyovush.learnlanguagebyreading.ui.add_book.AddBookFragment"
         android:label="fragment_add_book"
         tools:layout="@layout/fragment_add_book" />
+    <fragment
+        android:id="@+id/aboutAppFragment"
+        android:name="uz.siyovush.learnlanguagebyreading.ui.about_app.AboutAppFragment"
+        android:label="fragment_about_app"
+        tools:layout="@layout/fragment_about_app" />
 </navigation>
