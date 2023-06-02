@@ -3265,6 +3265,9 @@ id inward
 id is_pooling_container_tag
 id italic
 id item_touch_helper_previous_elevation
+id iv_a1tech_logo
+id iv_insta_logo
+id iv_tg_logo
 id jumpToEnd
 id jumpToStart
 id labeled

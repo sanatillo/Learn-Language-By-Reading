@@ -4,16 +4,16 @@
         "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_delete.xml.flat",
-        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_delete.xml"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_volume.xml.flat",
         "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_volume.xml"
     },
     {
-        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_delete.xml"
     },
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\layout_custom_translate.xml.flat",
@@ -230,6 +230,10 @@
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_ic_check.xml.flat",
         "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "uz.siyovush.learnlanguagebyreading.app-merged_res-64:/layout_fragment_home.xml.flat",
+        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-merged_res-64:\\drawable_transparent_icon.xml.flat",

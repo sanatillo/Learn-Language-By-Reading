@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:\\layout\\fragment_about_app.xml",
-        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_about_app.xml"
-    },
-    {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:\\layout\\custom_translate.xml",
         "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\custom_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:\\layout\\fragment_about_app.xml",
+        "source": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-main-66:\\layout\\fragment_about_app.xml"
     },
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:\\layout\\book_item.xml",
@@ -18,6 +18,10 @@
     {
         "merged": "uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:/layout/fragment_about_app.xml",
         "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_about_app.xml"
+    },
+    {
+        "merged": "uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:/layout/fragment_home.xml",
+        "source": "uz.siyovush.learnlanguagebyreading.app-main-66:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\A1Tech\\.gradle\\daemon\\8.1.1\\uz.siyovush.learnlanguagebyreading.app-mergeDebugResources-63:\\layout\\custom_step_to.xml",

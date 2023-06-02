@@ -55,6 +55,9 @@ id homeFragment
 id image
 id imageView
 id imageView2
+id iv_a1tech_logo
+id iv_insta_logo
+id iv_tg_logo
 id language_menu
 id linearLayout
 id lnr

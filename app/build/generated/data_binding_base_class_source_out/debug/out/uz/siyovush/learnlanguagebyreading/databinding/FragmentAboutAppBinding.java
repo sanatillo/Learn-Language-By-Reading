@@ -22,10 +22,13 @@ public final class FragmentAboutAppBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final ImageView imageView;
+  public final ImageView ivA1techLogo;
 
   @NonNull
-  public final ImageView imageView2;
+  public final ImageView ivInstaLogo;
+
+  @NonNull
+  public final ImageView ivTgLogo;
 
   @NonNull
   public final LinearLayout linearLayout;
@@ -36,12 +39,14 @@ public final class FragmentAboutAppBinding implements ViewBinding {
   @NonNull
   public final TextView textView3;
 
-  private FragmentAboutAppBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView,
-      @NonNull ImageView imageView2, @NonNull LinearLayout linearLayout,
-      @NonNull TextView textView2, @NonNull TextView textView3) {
+  private FragmentAboutAppBinding(@NonNull FrameLayout rootView, @NonNull ImageView ivA1techLogo,
+      @NonNull ImageView ivInstaLogo, @NonNull ImageView ivTgLogo,
+      @NonNull LinearLayout linearLayout, @NonNull TextView textView2,
+      @NonNull TextView textView3) {
     this.rootView = rootView;
-    this.imageView = imageView;
-    this.imageView2 = imageView2;
+    this.ivA1techLogo = ivA1techLogo;
+    this.ivInstaLogo = ivInstaLogo;
+    this.ivTgLogo = ivTgLogo;
     this.linearLayout = linearLayout;
     this.textView2 = textView2;
     this.textView3 = textView3;
@@ -74,15 +79,21 @@ public final class FragmentAboutAppBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.imageView;
-      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
-      if (imageView == null) {
+      id = R.id.iv_a1tech_logo;
+      ImageView ivA1techLogo = ViewBindings.findChildViewById(rootView, id);
+      if (ivA1techLogo == null) {
         break missingId;
       }
 
-      id = R.id.imageView2;
-      ImageView imageView2 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView2 == null) {
+      id = R.id.iv_insta_logo;
+      ImageView ivInstaLogo = ViewBindings.findChildViewById(rootView, id);
+      if (ivInstaLogo == null) {
+        break missingId;
+      }
+
+      id = R.id.iv_tg_logo;
+      ImageView ivTgLogo = ViewBindings.findChildViewById(rootView, id);
+      if (ivTgLogo == null) {
         break missingId;
       }
 
@@ -104,8 +115,8 @@ public final class FragmentAboutAppBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentAboutAppBinding((FrameLayout) rootView, imageView, imageView2,
-          linearLayout, textView2, textView3);
+      return new FragmentAboutAppBinding((FrameLayout) rootView, ivA1techLogo, ivInstaLogo,
+          ivTgLogo, linearLayout, textView2, textView3);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
