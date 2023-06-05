@@ -46,9 +46,9 @@ public final class AppDatabase_Impl extends AppDatabase {
       @Override
       public void createAllTables(SupportSQLiteDatabase _db) {
         _db.execSQL("CREATE TABLE IF NOT EXISTS `WordTranslation` (`original` TEXT NOT NULL, `language` TEXT NOT NULL, `translation` TEXT NOT NULL, PRIMARY KEY(`original`))");
-        _db.execSQL("CREATE TABLE IF NOT EXISTS `BookEntity` (`title` TEXT NOT NULL, `file` TEXT NOT NULL, `image` BLOB NOT NULL, `id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)");
+        _db.execSQL("CREATE TABLE IF NOT EXISTS `BookEntity` (`title` TEXT NOT NULL, `file` TEXT NOT NULL, `image` TEXT, `id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)");
         _db.execSQL("CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)");
-        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '7010fcfb8b5fe9ce87c845b838ecd8c7')");
+        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'e9106348ed7507a132e29306572c4edd')");
       }
 
       @Override
@@ -109,7 +109,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         final HashMap<String, TableInfo.Column> _columnsBookEntity = new HashMap<String, TableInfo.Column>(4);
         _columnsBookEntity.put("title", new TableInfo.Column("title", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsBookEntity.put("file", new TableInfo.Column("file", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
-        _columnsBookEntity.put("image", new TableInfo.Column("image", "BLOB", true, 0, null, TableInfo.CREATED_FROM_ENTITY));
+        _columnsBookEntity.put("image", new TableInfo.Column("image", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsBookEntity.put("id", new TableInfo.Column("id", "INTEGER", true, 1, null, TableInfo.CREATED_FROM_ENTITY));
         final HashSet<TableInfo.ForeignKey> _foreignKeysBookEntity = new HashSet<TableInfo.ForeignKey>(0);
         final HashSet<TableInfo.Index> _indicesBookEntity = new HashSet<TableInfo.Index>(0);
@@ -122,7 +122,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         }
         return new RoomOpenHelper.ValidationResult(true, null);
       }
-    }, "7010fcfb8b5fe9ce87c845b838ecd8c7", "a79a6779d96b7fe5e3e3b41d1239ea75");
+    }, "e9106348ed7507a132e29306572c4edd", "3191f73f22409bd20ecdee6cf82b5f5c");
     final SupportSQLiteOpenHelper.Configuration _sqliteConfig = SupportSQLiteOpenHelper.Configuration.builder(configuration.context)
         .name(configuration.name)
         .callback(_openCallback)

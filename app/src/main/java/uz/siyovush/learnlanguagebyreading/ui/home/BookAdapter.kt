@@ -1,10 +1,13 @@
 package uz.siyovush.learnlanguagebyreading.ui.home
 
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import uz.siyovush.learnlanguagebyreading.R
 import uz.siyovush.learnlanguagebyreading.data.database.entity.BookEntity
 import uz.siyovush.learnlanguagebyreading.data.model.Book
 import uz.siyovush.learnlanguagebyreading.databinding.BookItemBinding
@@ -55,7 +58,14 @@ class BookAdapter : RecyclerView.Adapter<BookAdapter.BookViewHolder>() {
                 true
             }
 
-            binding.bookImage.setImageBitmap(book.image)
+            Log.e("---TAG---", "BookAdapter imagePath-> ${book.image}")
+            Glide
+                .with(binding.root)
+                .load(book.image)
+                .centerCrop()
+                .placeholder(R.drawable.book_placeholder)
+                .into(binding.bookImage)
+
             binding.bookName.text = book.title
         }
     }

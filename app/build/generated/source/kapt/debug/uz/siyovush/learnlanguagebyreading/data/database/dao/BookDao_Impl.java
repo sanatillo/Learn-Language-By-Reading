@@ -1,7 +1,6 @@
 package uz.siyovush.learnlanguagebyreading.data.database.dao;
 
 import android.database.Cursor;
-import android.graphics.Bitmap;
 import androidx.room.CoroutinesRoom;
 import androidx.room.EntityInsertionAdapter;
 import androidx.room.RoomDatabase;
@@ -24,7 +23,6 @@ import javax.annotation.Generated;
 import kotlin.Unit;
 import kotlin.coroutines.Continuation;
 import kotlinx.coroutines.flow.Flow;
-import uz.siyovush.learnlanguagebyreading.data.database.BitmapConverter;
 import uz.siyovush.learnlanguagebyreading.data.database.entity.BookEntity;
 
 @Generated("androidx.room.RoomProcessor")
@@ -33,8 +31,6 @@ public final class BookDao_Impl implements BookDao {
   private final RoomDatabase __db;
 
   private final EntityInsertionAdapter<BookEntity> __insertionAdapterOfBookEntity;
-
-  private final BitmapConverter __bitmapConverter = new BitmapConverter();
 
   private final SharedSQLiteStatement __preparedStmtOfDeleteById;
 
@@ -58,11 +54,10 @@ public final class BookDao_Impl implements BookDao {
         } else {
           stmt.bindString(2, value.getFile());
         }
-        final byte[] _tmp = __bitmapConverter.imageToByteData(value.getImage());
-        if (_tmp == null) {
+        if (value.getImage() == null) {
           stmt.bindNull(3);
         } else {
-          stmt.bindBlob(3, _tmp);
+          stmt.bindString(3, value.getImage());
         }
         stmt.bindLong(4, value.getId());
       }
@@ -143,14 +138,12 @@ public final class BookDao_Impl implements BookDao {
             } else {
               _tmpFile = _cursor.getString(_cursorIndexOfFile);
             }
-            final Bitmap _tmpImage;
-            final byte[] _tmp_2;
+            final String _tmpImage;
             if (_cursor.isNull(_cursorIndexOfImage)) {
-              _tmp_2 = null;
+              _tmpImage = null;
             } else {
-              _tmp_2 = _cursor.getBlob(_cursorIndexOfImage);
+              _tmpImage = _cursor.getString(_cursorIndexOfImage);
             }
-            _tmpImage = __bitmapConverter.byteDataToImage(_tmp_2);
             final int _tmpId;
             _tmpId = _cursor.getInt(_cursorIndexOfId);
             _item = new BookEntity(_tmpTitle,_tmpFile,_tmpImage,_tmpId);

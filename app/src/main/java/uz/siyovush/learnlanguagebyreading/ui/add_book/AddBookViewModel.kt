@@ -17,7 +17,14 @@ class AddBookViewModel @Inject constructor(
     private val bookDao: BookDao,
 ) : ViewModel() {
 
-    fun addBook(path: String?, title: String, image: Bitmap) = viewModelScope.launch {
+//    fun addBook(path: String?, title: String, image: Bitmap) = viewModelScope.launch {
+//        path?.let {
+//            val entry = BookEntity(title, path, image)
+//            bookDao.insert(entry)
+//        }
+//    }
+
+    fun addBook(path: String?, title: String, image: String?) = viewModelScope.launch {
         path?.let {
             val entry = BookEntity(title, path, image)
             bookDao.insert(entry)

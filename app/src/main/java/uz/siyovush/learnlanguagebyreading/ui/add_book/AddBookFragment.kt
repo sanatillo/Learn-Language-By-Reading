@@ -2,11 +2,13 @@ package uz.siyovush.learnlanguagebyreading.ui.add_book
 
 import android.content.Context
 import android.content.Intent
+import android.database.Cursor
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
+import android.os.Environment
 import android.provider.MediaStore
 import android.util.Log
 import android.view.View
@@ -24,13 +26,15 @@ import uz.siyovush.learnlanguagebyreading.databinding.FragmentAddBookBinding
 import uz.siyovush.learnlanguagebyreading.util.getFilename
 import java.io.File
 import java.io.FileOutputStream
+import java.io.IOException
+import java.util.UUID
 
 @AndroidEntryPoint
 class AddBookFragment : Fragment(R.layout.fragment_add_book) {
 
     private val binding by viewBinding(FragmentAddBookBinding::bind)
     private val viewModel by viewModels<AddBookViewModel>()
-
+    private var imagePath: String? = null
 
     private lateinit var bitmap: Bitmap
     private val getContent =
@@ -51,19 +55,22 @@ class AddBookFragment : Fragment(R.layout.fragment_add_book) {
                 }
                 Log.d("AddBookFragment", fileName)
 
-
                 val path = outputFile.path
-                viewModel.addBook(path, binding.titleField.text.toString(), bitmap)
+                viewModel.addBook(path, binding.titleField.text.toString(), imagePath)
                 findNavController().popBackStack()
                 // Use the extracted text as needed
             }
         }
+
     private val galleryRequest =
         registerForActivityResult(ActivityResultContracts.GetContent()) { uri ->
             if (uri != null) {
                 getBitmapFromUri(uri)?.let {
                     bitmap = it
                 }
+//                imagePath = context?.let { getRealPathFromUri(it, uri) }
+                imagePath = context?.let { saveBitmapToFile(it, bitmap) }
+                println("imagePath-> $imagePath")
                 binding.image.setImageBitmap(bitmap)
             }
         }
@@ -108,4 +115,38 @@ class AddBookFragment : Fragment(R.layout.fragment_add_book) {
         }
     }
 
+//    private fun getRealPathFromUri(context: Context, uri: Uri): String? {
+//        System.err.println("getRealPathFromUri -> uri: ${uri.encodedPath}")
+//        var cursor: Cursor? = null
+//        return try {
+//            val projection = arrayOf(MediaStore.Images.Media.DATA)
+//            cursor = context.contentResolver.query(uri, projection, null, null, null)
+//            val columnIndex = cursor?.getColumnIndexOrThrow(MediaStore.Images.Media.DATA)
+//            cursor?.moveToFirst()
+//            columnIndex?.let {
+//                cursor?.getString(it)
+//            }
+//        } finally {
+//            cursor?.close()
+//        }
+//    }
+
+    private fun saveBitmapToFile(context: Context, bitmap: Bitmap): String? {
+        var outputStream: FileOutputStream? = null
+        return try {
+            val file =
+                File(
+                    context.getExternalFilesDir(Environment.DIRECTORY_PICTURES),
+                    "${UUID.randomUUID()}.jpg"
+                )
+            outputStream = FileOutputStream(file)
+            bitmap.compress(Bitmap.CompressFormat.JPEG, 100, outputStream)
+            file.absolutePath
+        } catch (e: IOException) {
+            e.printStackTrace()
+            null
+        } finally {
+            outputStream?.close()
+        }
+    }
 }

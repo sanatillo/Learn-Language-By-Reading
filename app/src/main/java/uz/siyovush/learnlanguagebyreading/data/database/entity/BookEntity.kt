@@ -15,6 +15,6 @@ import uz.siyovush.learnlanguagebyreading.data.database.BitmapConverter
 data class BookEntity(
     val title: String,
     val file: String,
-    val image: Bitmap,
+    val image: String?,
     @PrimaryKey(autoGenerate = true) var id: Int = 0
 ) : Parcelable
